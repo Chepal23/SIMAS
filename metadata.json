@@ -1,0 +1,6 @@
+{
+  "name": "SIMAS - Sistem Informasi Manajemen Surat Sekolah",
+  "description": "Aplikasi Manajemen Surat Masuk, Surat Keluar, Disposisi Digital, WhatsApp Sidobe, dan QR Verifikasi Dokumen Sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
